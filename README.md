@@ -1,2 +1,2 @@
-# ananyamaddegalla.github.io
+# ananya-maddegalla.github.io
 My Webpage
